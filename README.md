@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jwquist
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently in my senior year of my Computer Science degree
+- 📫 How to reach me: email @ jwaynequist@gmail.com
